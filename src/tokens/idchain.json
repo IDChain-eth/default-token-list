@@ -12,8 +12,7 @@
       "address": "0x2b309226500ADc5956a422950A2AD6E6333Bb315",
       "symbol": "EIDI",
       "decimals": 6,
-      "chainId": 74,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "chainId": 74
     }
   ]
   
