@@ -1,23 +1,23 @@
 {
-  "name": "honeyswap-default-token-list",
-  "version": "2.1.6",
-  "description": "◦ The Honeyswap default token list",
-  "main": "build/honeyswap-default.tokenlist.json",
+  "name": "idchain-default-token-list",
+  "version": "1.0.0",
+  "description": "◦ The Uniswap on IDChain default token list",
+  "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/honeyswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/honeyswap-default.tokenlist.json"
+    "build/uniswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/1Hive/default-token-list.git"
   },
   "keywords": [
+    "idchain",
     "uniswap",
-    "honeyswap",
     "default",
     "token",
     "list"
