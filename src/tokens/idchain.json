@@ -8,9 +8,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
-      "name": "Eidi",
+      "name": "Wrapped Eidi",
       "address": "0x2b309226500ADc5956a422950A2AD6E6333Bb315",
-      "symbol": "EIDI",
+      "symbol": "WEIDI",
       "decimals": 6,
       "chainId": 74
     }

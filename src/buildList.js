@@ -4,7 +4,7 @@ const idchain = require("./tokens/idchain.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Default",
+    name: "IDChain Default",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
