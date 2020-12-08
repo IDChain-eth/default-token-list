@@ -13,6 +13,13 @@
       "symbol": "WEIDI",
       "decimals": 6,
       "chainId": 74
+    },
+    {
+      "name": "Aragon Network",
+      "address": "0x01e8A98397FBD060daA10feF834534C561744A9e",
+      "symbol": "ANT",
+      "decimals": 18,
+      "chainId": 74
     }
   ]
   
