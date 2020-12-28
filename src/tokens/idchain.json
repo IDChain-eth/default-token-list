@@ -1,6 +1,6 @@
 [
     {
-      "name": "Dai Stablecoin on IDChain",
+      "name": "Dai Stablecoin",
       "address": "0xE1A400f340bf4eeDbc4Bbb553f1BFf7Ec4656E3e",
       "symbol": "DAI",
       "decimals": 18,
@@ -8,9 +8,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
-      "name": "Wrapped Eidi",
+      "name": "EIDI",
       "address": "0x2b309226500ADc5956a422950A2AD6E6333Bb315",
-      "symbol": "WEIDI",
+      "symbol": "EIDI",
       "decimals": 6,
       "chainId": 74
     },
