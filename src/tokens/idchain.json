@@ -12,14 +12,16 @@
       "address": "0x2b309226500ADc5956a422950A2AD6E6333Bb315",
       "symbol": "EIDI",
       "decimals": 6,
-      "chainId": 74
+      "chainId": 74,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "name": "Aragon Network",
       "address": "0x01e8A98397FBD060daA10feF834534C561744A9e",
       "symbol": "ANT",
       "decimals": 18,
-      "chainId": 74
+      "chainId": 74,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
     }
   ]
   
