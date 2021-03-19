@@ -990,5 +990,21 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+  },
+  {
+    "name": "Subscriptions",
+    "address": "0x61ceac48136d6782dbd83c09f51e23514d12470a",
+    "symbol": "SUBS",
+    "decimals": 0,
+    "chainId": 1,
+    "logoURI": "https://etherscan.io/token/images/subscriptions_32.png"
+  },
+  {
+    "name": "Panvala Pan",
+    "address": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+    "symbol": "PAN",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/ethereum/assets/0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44/logo.png"
   }
 ]
