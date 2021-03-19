@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 74,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Subscriptions on IDChain",
+    "address": "0x5ef7e0df1148bbaa90a2bdcf7ea977087929d60c",
+    "symbol": "SUBS",
+    "decimals": 0,
+    "chainId": 74,
+    "logoURI": "https://etherscan.io/token/images/subscriptions_32.png"
   }
 ]
