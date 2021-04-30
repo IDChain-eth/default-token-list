@@ -8,13 +8,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
-    "name": "Dai Stablecoin OLD",
-    "address": "0xE1A400f340bf4eeDbc4Bbb553f1BFf7Ec4656E3e",
-    "symbol": "DAIOLD",
-    "decimals": 18,
-    "chainId": 74
-  },
-  {
     "name": "WEIDI",
     "address": "0x2b309226500ADc5956a422950A2AD6E6333Bb315",
     "symbol": "WEIDI",

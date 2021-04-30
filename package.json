@@ -1,6 +1,6 @@
 {
   "name": "idchain-default-token-list",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "◦ The Uniswap on IDChain default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
