@@ -22,5 +22,21 @@
     "decimals": 0,
     "chainId": 74,
     "logoURI": "https://etherscan.io/token/images/subscriptions_32.png"
+  },
+  {
+    "name": "IdSubscriptions",
+    "address": "0xc7d025eedeb6bf7a4f4b952e71b4c3999d9c98e0",
+    "symbol": "IDSUBS",
+    "decimals": 18,
+    "chainId": 74,
+    "logoURI": "https://etherscan.io/token/images/subscriptions_32.png"
+  },
+  {
+    "name": "IdSponsorships",
+    "address": "0x183C5D2d1E43A3aCC8a977023796996f8AFd2327",
+    "symbol": "IDSP",
+    "decimals": 0,
+    "chainId": 74,
+    "logoURI": "https://etherscan.io/token/images/subscriptions_32.png"
   }
 ]
